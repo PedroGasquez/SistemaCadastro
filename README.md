@@ -21,5 +21,5 @@ Instruções de Uso
 
     Configuração do Ambiente:
         Certifique-se de ter o .NET SDK instalado. Se não, você pode obtê-lo em: Download .NET SDK
-
-      ![image](https://github.com/Stal91/SistemaCadastro/assets/105076457/5051ed27-8c3f-43ef-ae4b-d377e940fcca)
+        
+![image](https://github.com/Stal91/SistemaCadastro/assets/105076457/5051ed27-8c3f-43ef-ae4b-d377e940fcca)
