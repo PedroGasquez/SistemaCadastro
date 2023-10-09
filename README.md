@@ -23,3 +23,18 @@ Instruções de Uso
         Certifique-se de ter o .NET SDK instalado. Se não, você pode obtê-lo em: Download .NET SDK
         
 ![image](https://github.com/Stal91/SistemaCadastro/assets/105076457/5051ed27-8c3f-43ef-ae4b-d377e940fcca)
+
+Executando o Aplicativo:
+
+    Abra o projeto no Visual Studio ou outro editor de sua escolha.
+    Build e execute o aplicativo.
+
+Acessando o Aplicativo:
+
+    Abra um navegador web e acesse a URL: http://localhost:porta
+
+Utilizando o Aplicativo:
+
+    Você será redirecionado para a página de listagem de contatos.
+    Para adicionar um novo contato, clique em "Adicionar novo contato".
+    Para editar ou apagar um contato existente, clique nos botões "Editar" ou "Apagar" respectivamente.
